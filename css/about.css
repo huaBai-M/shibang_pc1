@@ -1,0 +1,110 @@
+a{
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+.head_name {
+    width:100%;
+    /* height:280px; */
+    /*height:620px;*/
+    background-color: #fff;
+
+}
+.head_name .path {
+    margin-top: 40px;
+}
+.head_name .path a {
+    font-size: 12px;
+    color: #494949;
+}
+.foot {
+    margin-top: 60px;
+}
+.foot .title {
+    color: #539248;
+    font-size:36px;
+}
+.foot .content {
+    color: #6e6e6e;
+    font-size: 16px;
+    line-height:50px;
+}
+.foot .content p:last-child{
+    margin-top: 20px;
+}
+.foot .content p:first-child{
+    margin-top: 10px;
+}
+
+.talk {
+    margin-top: 90px;
+    position: relative;
+}
+.talk .title {
+    color: #539248;
+    font-size:36px;
+}
+.talk .content {
+    color: #6e6e6e;
+    font-size: 16px;
+    line-height:50px;
+
+}
+.talk .content p{
+    margin-top: 20px;
+    width: 580px;
+}
+
+.talk .content a {
+    width:580px;
+    height:450px;
+    position: absolute;
+    right: 0;
+    top:10px;
+}
+.talk img {
+    width: 100%;
+    max-height: 450px;
+}
+
+.new_pro {
+    margin-top: 130px;
+    /*position: relative;*/
+}
+
+.new_pro .content {
+    color: #6e6e6e;
+    font-size: 16px;
+    line-height:50px;
+    /*margin-top: 50px;*/
+
+}
+.new_pro .title {
+    color: #539248;
+    font-size:36px;
+    margin-bottom: 27px;
+    /*float: right;*/
+    /*margin-bottom: 50px;*/
+    /*margin-top: 50px;*/
+}
+.new_pro .content div.all{
+    /*position: absolute;*/
+   margin-left:620px;
+    /*margin-top: 20px;*/
+    width: 560px;
+    margin-top: 50px;
+    /*float: right;*/
+}
+
+.new_pro .content a {
+    width:580px;
+    height:450px;
+    margin-top: 10px;
+    display: inline-block;
+    float: left;
+}
+.new_pro img {
+    width: 100%;
+    max-height: 450px;
+}
